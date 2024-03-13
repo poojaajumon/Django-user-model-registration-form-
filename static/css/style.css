@@ -1,0 +1,61 @@
+#login1{
+   /* padding-left: 60px; */
+   text-align: center;
+   color: blue;
+}
+#username{
+    width: 255px;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+#password{
+    width: 255px;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+#loginbutton{
+    margin-left: 60px;
+}
+.logincard{
+    
+    margin-left: 500px;
+    margin-top: 100px;
+    
+}
+.signcard{
+    margin-left: 500px;
+    margin-top: 100px;
+    
+}
+.profilecard{
+    margin-left: 500px;
+    margin-top: 100px;
+}
+#signbtn{
+    margin-left: 130px;
+}
+td{
+    color: black;
+    font-weight: bold;
+}
+#signup1{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+ 
+body{
+    background-image: url(../images/bg.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#user1{
+    color: blue;
+    text-align: center;
+}
+#logoutbutton{
+    margin-left: 80px;
+}
